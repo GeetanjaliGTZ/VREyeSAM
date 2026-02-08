@@ -169,7 +169,7 @@ VREyeSAM/
 
 ## Dataset Access
 
-The VRBiomSegM dataset and codes are not included in this repository. To obtain access to them, please contact:
+The VRBiomSegM dataset, weights and codes are not included in this repository. To obtain access to them, please contact:
 
 📧 **Email:** geetanjalisharma546@gmail.com
 
