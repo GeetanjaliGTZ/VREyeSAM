@@ -167,9 +167,9 @@ VREyeSAM/
     └── test_uncertainty_maps/
 ```
 
-## Dataset Access
+## Dataset , Weights and codebase Access
 
-The VRBiomSegM dataset, weights and codes are not included in this repository. To obtain access to them, please contact:
+The VRBiomSegM dataset, weights and codebase are not included in this repository. To obtain access to them, please contact:
 
 📧 **Email:** geetanjalisharma546@gmail.com
 
